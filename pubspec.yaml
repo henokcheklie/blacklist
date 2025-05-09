@@ -1,0 +1,35 @@
+name: blacklist
+description: "A modern employee management application built with Flutter and GetX. BlackList provides a clean interface for viewing and managing employee information with powerful search capabilities and theme customization."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get:
+  http:
+  hive:
+  hive_flutter:
+  cupertino_icons:
+  modal_progress_hud_nsn:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.14.3
+  flutter_lints: ^5.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icon/
+    - assets/screenshots/
