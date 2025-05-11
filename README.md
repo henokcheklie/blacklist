@@ -111,21 +111,23 @@ Tap on any employee card to view detailed information including:
 
 ## 📱 Screenshots
 
-### 1. Home Screen Light Mode
+### 1. Home Screen
 
-![Home Screen Light Mode](assets/screenshots/home_light.png)
+Display a scrollable list of employees with search and filter options.
 
-### 2. Home Screen Dark Mode
+<p float="left">
+  <img src="assets/screenshots/home_light.png" width="240" />
+  <img src="assets/screenshots/home_dark.png" width="240" /> 
+</p>
 
-![Home Screen Dark Mode](assets/screenshots/home_dark.png)
+### 32. Employee Detail Light Mode
 
-### 3. Employee Detail Light Mode
+Display a datail information of employees.
 
-![Employee Detail Light Mode](assets/screenshots/employee_light.png)
-
-### 4. Employee Detail Dark Mode
-
-![Employee Detail Dark Mode](assets/screenshots/employee_dark.png)
+<p float="left">
+  <img src="assets/screenshots/employee_light.png" width="240" />
+  <img src="assets/screenshots/employee_dark.png" width="240" /> 
+</p>
 
 ## 🛠️ Development
 
