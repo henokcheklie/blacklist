@@ -153,6 +153,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Your Name - [henokcheklie@gmail.com](mailto:henokcheklie@gmail.com)
+Henok Cheklie - [henokcheklie@gmail.com](mailto:henokcheklie@gmail.com)
 
 Project Link: [https://github.com/henokcheklie/blacklist.git](https://github.com/henokcheklie/blacklist.git)
